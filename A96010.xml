@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The voyce of the light unto the people called Quakers, in relation to tythes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96010</idno>
+            <idno type="STC">Wing V679</idno>
+            <idno type="STC">ESTC R186070</idno>
+            <idno type="EEBO-CITATION">47683524</idno>
+            <idno type="OCLC">ocm 47683524</idno>
+            <idno type="VID">172981</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172981)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The voyce of the light unto the people called Quakers, in relation to tythes.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, creased, and tightly bound.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Tithes --  Early works to 1800.</term>
+               <term>Inner light --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172981:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>THE VOYCE OF THE LIGHT Unto the People called Quakers, In relation to TYTHES.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>James Collins</hi> in the <hi>Temple</hi>-paſſage from <hi>Eſſex-ſtreet.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:172981:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="1" facs="tcp:172981:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>The VOICE OF The LIGHT, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hus ſaith the <hi>Light: Wo unto you Quakers! for ye are an evil and perverſe Generation; a Generation that walk not in the Light, but love your own dark<g ref="char:EOLhyphen"/>neſs better than the Light; you honour the Light with your Lips, but your Hearts and Ways are far from it.</hi>
+            </p>
+            <p>For the <hi>Light</hi> will tell you, and if you open your Eyes you muſt ſee it, that you live under, and are protected by the Na<g ref="char:EOLhyphen"/>tional Laws; that thoſe fix and deter<g ref="char:EOLhyphen"/>mine mens Rights, and were it not for
+<pb n="2" facs="tcp:172981:3"/>
+               <!-- PDF PAGE 17 -->them, every man would call that his own, which he could take from another by force; and ſo we ſhould fall into a ſtate of War, and be wilde Beaſts one to another. The <hi>Light</hi> will tell you that Laws preſerve what we have, and make it ours: And that the ſame Laws that made the <hi>Ninth</hi> part of increaſe yours, give the <hi>Tenth</hi> unto the <hi>Miniſter</hi> or <hi>Re<g ref="char:EOLhyphen"/>ctor.</hi> Now hereby are ye condemned, O ye Quakers! for you take and enjoy the benefit of the Laws as to your own part, but contradict and oppoſe the Law as to his: And therefore, thus ſaith the <hi>Light, The ſame meaſure you meet, may be mea<g ref="char:EOLhyphen"/>ſured to you again;</hi> and as you will not allow the Law as to the Rectors right, o<g ref="char:EOLhyphen"/>thers by the ſame reaſon may refuſe to allow it as to yours: and ſo every one may take and with-hold your Goods from you by your own law, and rule of pra<g ref="char:EOLhyphen"/>ctiſe: and here is foundation laid for uni<g ref="char:EOLhyphen"/>verſal confuſion. So that in this, O ye Quakers, ye are <hi>Enemies</hi> to the <hi>Light,</hi> to your own, and the Rights of Man<g ref="char:EOLhyphen"/>kinde.</p>
+            <p>The <hi>Light</hi> ſaith, <hi>Thou ſhalt not Steal.</hi> Now Stealing is either taking or detain<g ref="char:EOLhyphen"/>ing that which by Law or Cuſtom is ano<g ref="char:EOLhyphen"/>thers;
+<pb n="3" facs="tcp:172981:3"/>
+               <!-- PDF PAGE 17 -->in this alſo ye Quakers ſin againſt the <hi>Light,</hi> by taking the <hi>Tythes,</hi> which are none of yours: For there is neither Law nor Cuſtom that gives you any right in them; neither did you or your Fore<g ref="char:EOLhyphen"/>fathers ever buy or pay for them; they were ſtill reſerved and paid elſewhere; and the Seller abates of his rates on con<g ref="char:EOLhyphen"/>ſideration that the Lands are Tythable: So that you will have what you never did or could buy; and in this you make your ſelves <hi>Thieves</hi> and <hi>Robbers,</hi> and <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> to the <hi>Light.</hi>
+            </p>
+            <p>The <hi>Light</hi> ſaith, <hi>Do unto others as you would that they ſhould do unto you:</hi> But ye rebel againſt the Light, and deal with others as you would not be willing to be dealt withal your ſelves. If you have right in a Common by antient Law or Cuſtom, you would not have the Privi<g ref="char:EOLhyphen"/>ledge taken from you; nor be willing it ſhould be encloſed for the uſe of a pri<g ref="char:EOLhyphen"/>vate perſon, who can claim but his ſhare; and yet you ſhut others out of their Common, and encloſe all the In<g ref="char:EOLhyphen"/>creaſe of your Field to your ſelves, con<g ref="char:EOLhyphen"/>trary to the moſt antient Laws and Cu<g ref="char:EOLhyphen"/>ſtomes of the Kingdom; and in this the <hi>Light</hi> condemns you.</p>
+            <pb n="4" facs="tcp:172981:4"/>
+            <!-- PDF PAGE 18 -->
+            <p>The <hi>Light</hi> tells you, that you ſhould <hi>Give unto Caeſar the things that are Cae<g ref="char:EOLhyphen"/>ſars;</hi> and <hi>Tythes</hi> are due by <hi>Caeſar</hi>'s Laws and <hi>Caeſar</hi> hath the <hi>Tenth</hi> of them; ſo that you deny the Kings Right, as well as the Miniſters; and in this alſo you con<g ref="char:EOLhyphen"/>tradict the Light.</p>
+            <p>The <hi>Light</hi> forbids you to <hi>remove an<g ref="char:EOLhyphen"/>tient Land-marks;</hi> but this you do, and break the bounds which your Fore-fathers, ſet and owned: they confined your rights and properties within the <hi>Nine</hi> parts; but you would enlarge them to the whole <hi>Ten,</hi> and ſo break over the bounds, and rebel againſt the <hi>Light.</hi>
+            </p>
+            <p>The <hi>Light</hi> ſaith, <hi>Give unto every man his due, Tribute to whom Tribute is due, Cuſtom to whom Cuſtom:</hi> Now <hi>Tythes</hi> are <hi>Tribute</hi> to the King, and <hi>Cuſtom</hi> to the Miniſter: So that your with-holding Tythes, on this ſcore alſo, makes you <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> to the <hi>Light.</hi>
+            </p>
+            <p>The <hi>Light</hi> ſaith, that <hi>as far as is poſſi<g ref="char:EOLhyphen"/>ble, you ſhould live peaceably with all men;</hi> but you will not let men live in peace by you, but force them into Law and
+<pb n="5" facs="tcp:172981:4"/>
+               <!-- PDF PAGE 18 -->trouble againſt their wills, to defend their own juſt rights, which you would take from them; and in this you are Enemies to the <hi>Light,</hi> and to the peace of your neighbours.</p>
+            <p>The <hi>Light</hi> ſaith, <hi>Give no offence nei<g ref="char:EOLhyphen"/>ther to Jew nor Gentile, nor to the Church of God.</hi> But you wilfully give great ground of provocation and offence to them that meddle not with you, by ta<g ref="char:EOLhyphen"/>king their Bread from them, and putting them to much trouble and vexation to get their own; and in this likewiſe you act againſt the Light.</p>
+            <p>The <hi>Light</hi> ſaith, <hi>Thou ſhalt not covet thy neighbours goods;</hi> but you Quakers covet and uſurp the livelihood of other men, and many times bring them and their Families to beggary and ruine, by with-holding their Bread from them and their Children: So that the Light con<g ref="char:EOLhyphen"/>demns you for <hi>Perſecutors,</hi> and <hi>Oppreſ<g ref="char:EOLhyphen"/>ſors, ravening Wolves</hi> in <hi>Sheeps cloath<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>The <hi>Light</hi> ſaith, <hi>Thou ſhalt not bear falſe witneſs againſt thy neighbour;</hi> but you bitterly Revile, Reproach, and Slan<g ref="char:EOLhyphen"/>der
+<pb n="6" facs="tcp:172981:5"/>
+               <!-- PDF PAGE 19 -->Miniſters for receiving their own, as if they were Thieves and Robbers for ſo doing: So that your Tongues are not guided by the <hi>Light,</hi> but <hi>ſet on fire of Hell.</hi>
+            </p>
+            <p>The Light requires that we ſhould do things <hi>honeſt in the ſight of all men;</hi> but you Quakers, in carrying away <hi>Tythes</hi> that are not yours, do what is diſhoneſt in the ſight of all men, except your ſelves, whoſe Eyes Covetouſneſs and the God of this World ſeems to have blinded; ſo that you ſee not, or pretend not to ſee that right belonging to Miniſters, which is ſo clear, and ſo apparent to all the world beſides: in this you ſhew your ſelves men of <hi>corrupt mindes,</hi> that make <hi>Gain God<g ref="char:EOLhyphen"/>lineſs,</hi> and love the <hi>wages of unrighte<g ref="char:EOLhyphen"/>ouſneſs,</hi> and ſo the <hi>Enemies</hi> to the <hi>Light.</hi>
+            </p>
+            <p>The <hi>Light</hi> ſaith, <hi>Let none of you ſuffer as an evil doer, as a Thief, as a Murther<g ref="char:EOLhyphen"/>er,</hi> &amp;c. For if men are <hi>buffetted for their faults, what thanks have they?</hi> But you expoſe your ſelves to juſt ſufferings as evil doers, for oppreſſing, and defrauding, and robbing your Neighbours: And in this you glory as if it were ſuffering for
+<pb n="7" facs="tcp:172981:5"/>
+               <!-- PDF PAGE 19 -->Conſcience and Religion, when 'tis ſuf<g ref="char:EOLhyphen"/>fering for plain knavery and theft: And High-way men and Cut-purſes have as much reaſon to glory in their ſuffering, and to cry out <hi>Perſecution, Perſecution,</hi> as you: So that you abuſe the ſacred name of Conſcience, and prophane Religion, by this your vain and abſurd glorying, and ſin againſt the Light.</p>
+            <p>The <hi>Light</hi> ſaith, <hi>Let your yea be yea, and your nay nay:</hi> It requires plainneſs and ſimplicity in our ſpeeches; but you Qua<g ref="char:EOLhyphen"/>kers uſe words of deceit, and tricks and evaſions to colour your injuſtice in with<g ref="char:EOLhyphen"/>holding Tythes. You bid Miniſters prove Tythes due by the <hi>Goſpel-rule.</hi> It were not hard to do it to men of any tolerable un<g ref="char:EOLhyphen"/>derſtanding, and indifferency of judge<g ref="char:EOLhyphen"/>ment; but there is no need of it, they are certainly and moſt undoubtedly due by the Laws of the Land, which are e<g ref="char:EOLhyphen"/>nough to give right. You ſay there is no mention of <hi>Tythe</hi> to be paid upon your <hi>Leaſes:</hi> but you knew when you bought that the Seller could convey but the nine parts to you; the Tenths beyond all me<g ref="char:EOLhyphen"/>mory of time were transferred elſewhere; and if you had bought Tythe-fee, you muſt have given more for your Purchaſe.
+<pb n="8" facs="tcp:172981:6"/>
+               <!-- PDF PAGE 20 -->You ſay, If the Miniſter hath any right in your Field, let him tell whereabout his due lies: A piece of vain Sophiſtry! Let me ask them the ſame Queſtion; If they have right of feeding in a <hi>Common,</hi> let them tell me where their particular ſhare of Graſs lies? Their anſwer to this, will ſerve for one to themſelves: where more have intereſt, the particular ſhares cannot be determined till diviſion be made; and when their ſheaves are counted, the Miniſter can eaſily tell what is his. By ſuch ſilly ſhifts and pretences, <hi>O ye Qua<g ref="char:EOLhyphen"/>kers,</hi> you plainly ſhew your juggling and inſincerity, that you are led by car<g ref="char:EOLhyphen"/>nal reaſon, the reaſon of your obſtinacie and worldly intereſt, and not by any principle of Truth or Light.</p>
+            <p>The <hi>Light</hi> ſaith, you ſhould <hi>rather ſuf<g ref="char:EOLhyphen"/>fer wrong,</hi> than do any: men may quit their perſonal rights without ſin, but can<g ref="char:EOLhyphen"/>not take anothers without it; ſo that if the caſe was doubtful whether Tythes are due or not, the ſafer way was to let them go, rather than contend; or if they were not due really, it were much honeſter to part with them to thoſe on whom Laws and conſtant Cuſtome have placed them, than to offer violence to the Laws,
+<pb n="9" facs="tcp:172981:6"/>
+               <!-- PDF PAGE 20 -->to thwart ancient Uſage, to trouble our Neighbours, and to offend and diſturb Governours by detaining of them: So that in this alſo you rebel againſt the <hi>Light.</hi>
+            </p>
+            <p>The <hi>Light</hi> commands you to <hi>ſubmit to every Ordinance of man,</hi> to be <hi>ſubject to the higher Powers, to obey Magiſtrates;</hi> and theſe have enacted, and moſt ſolemnly commanded the payment of <hi>Tythes</hi> to Miniſters, through all times; and there<g ref="char:EOLhyphen"/>fore, O ye Quakers, by denying this pay<g ref="char:EOLhyphen"/>ment, you rebel againſt their Authority, and refuſe that ſubjection to them that God hath made their due, and ſo you affront and ſin againſt the Light.</p>
+            <p>The <hi>Light</hi> bids us to <hi>eſchew all appear<g ref="char:EOLhyphen"/>ances of evil;</hi> but to break ancient Cu<g ref="char:EOLhyphen"/>ſtomes, to oppoſe legal Eſtabliſhments. and to with-hold that which the Laws have made due to others, hath at leaſt an appearance of evil; and therefore in this alſo, O ye <hi>Quakers,</hi> you tranſgreſs againſt the <hi>Light.</hi>
+            </p>
+            <p>So that thus ſaith the <hi>Light, Repent and return, O ye Quakers;</hi> for <hi>Oppreſſion and Violence is in your hands, and the ways
+<pb n="10" facs="tcp:172981:7"/>
+                  <!-- PDF PAGE 21 -->of Juſtice and Peace you have not known. Turn your eyes to the Light, and your hearts to righteouſneſs and judgement, that you may do juſtice and love mercy, and walk as Children of the true Light that enlight<g ref="char:EOLhyphen"/>ens every one that cometh into the world.</hi>
+            </p>
+            <trailer>Amen; <hi>ſo ſaith the Light.</hi>
+            </trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
